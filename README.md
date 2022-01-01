@@ -97,8 +97,8 @@ clientEmail - String
 Example
 
 {
-   "clientName": "Valentin",
-   "clientEmail": "valentin@example.com"
+   "clientName": "Bhagya",
+   "clientEmail": "bhagya@example.com"
 }
 The response body will contain the access token.
 

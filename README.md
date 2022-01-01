@@ -33,9 +33,6 @@ POST /orders
 
 Allows you to submit a new order. Requires authentication.
 
-
-Reference - https://github.com/vdespa/introduction-to-postman-course
-
 The request body needs to be in JSON format and include the following properties:
 
 bookId - Integer - Required
@@ -108,3 +105,5 @@ The response body will contain the access token.
 Possible errors
 
 Status code 409 - "API client already registered." Try changing the values for clientEmail and clientName to something else.
+
+Reference - https://github.com/vdespa/introduction-to-postman-course
